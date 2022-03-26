@@ -1,0 +1,13 @@
+{
+    "/" : "UserInterface/index.html",
+    "/Styles/index_style.css" : "UserInterface/Styles/index_style.css",
+    "/Assets/image1.jpg" : "UserInterface/Assets/image1.jpg",
+    "/Assets/image2.jpg" : "UserInterface/Assets/image2.jpg",
+    "/task/Styles/taskconfig.css" : "UserInterface/Styles/taskconfig.css",
+    "/task/Styles/taskview.css" : "UserInterface/Styles/taskview.css",
+    "/task" : "UserInterface/task.html",
+    "/task/Config" : "UserInterface/taskConfig.html",
+    "/task/View" : "UserInterface/taskView.html",
+    "/task/Scripts/taskConfig.js" : "UserInterface/Scripts/taskConfig.js",
+    "/task/Scripts/taskView.js" : "UserInterface/Scripts/taskView.js"
+}
